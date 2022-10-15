@@ -33,4 +33,4 @@ I am a Junior Front End Developer <img src="https://media.giphy.com/media/WUlplc
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yondikavl&theme=dark&background=181924)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yondikavl&layout=compact&theme=dark&background=#181924)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yondikavl&layout=compact&theme=dark&background=181924)](https://github.com/anuraghazra/github-readme-stats)

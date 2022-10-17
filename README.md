@@ -1,4 +1,4 @@
-[![Yondika's GitHub Banner](GitHubHeader.jpg)](https://braydoncoyer.dev)
+[![Yondika's GitHub Banner](githubHeader.png)]
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/yondika-vio-landa-a37206219">

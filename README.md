@@ -9,7 +9,7 @@
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=yondikavl&style=flat-square&color=blue" alt=""/>
+[![](https://visitcount.itsvg.in/api?id=yondikavl&icon=5&color=0)](https://visitcount.itsvg.in)
 
 ---
 

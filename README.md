@@ -13,7 +13,7 @@
 
 ---
 
-### :woman_technologist: About Me :
+### 💫 About Me :
 
 I am a Junior Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Lampung, Indonesia.
 

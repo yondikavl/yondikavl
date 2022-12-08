@@ -35,10 +35,6 @@ I am a Junior Front End Developer <img src="https://media.giphy.com/media/WUlplc
 
 ### :fire: My Stats :
 
-<a href="https://github.com/yondikavl">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yondikavl&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=101721" />
-</a>
+![](https://github-readme-stats.vercel.app/api?username=yondikavl&theme=react&hide_border=true&include_all_commits=false&count_private=false)<br/>
 
-<a href="https://github.com/yondikavl">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=yondikavl&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=101721" alt="Yondika's GitHub Stats" />
-</a>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yondikavl&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)

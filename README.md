@@ -13,7 +13,7 @@
 
 ### 💫 About Me :
 
-I am a Junior Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Lampung, Indonesia.
+Informatics Engineering students who have high motivation to continue to improve experience and knowledge. Proficient in problem solving and has a high interest in technology, especially software development.
 
 ---
 

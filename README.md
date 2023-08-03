@@ -1,4 +1,4 @@
-## Hi, I'm Yondika! 👋
+# Hi, I'm Yondika Vio Landa 👋
 ![Alt text](/readmebox.svg "readmebox")
 <div id="badges">
   <a href="https://www.linkedin.com/in/yondika-vio-landa-a37206219">
@@ -11,13 +11,13 @@
 
 <img src="https://komarev.com/ghpvc/?username=yondikavl&style=flat-square&color=blue" alt=""/>
 
----
+_________________
 
 ### 🚀 About Me :
 
 Informatics Engineering students who have high motivation to continue to improve experience and knowledge. Proficient in problem solving and has a high interest in technology, especially software development.
 
----
+_________________
 
 ### 🌱 I’m currently learning
 

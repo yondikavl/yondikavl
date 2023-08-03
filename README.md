@@ -1,5 +1,8 @@
 # Hi, I'm Yondika Vio Landa 👋
+
 -https://img.shields.io/badge/JavaScript-Intermediate-blue
+![Static Badge](https://img.shields.io/badge/:badgeContent)
+
 ![Alt text](/readmebox.svg "readmebox")
 <div id="badges">
   <a href="https://www.linkedin.com/in/yondika-vio-landa-a37206219">

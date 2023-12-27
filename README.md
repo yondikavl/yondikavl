@@ -1,6 +1,5 @@
 # Hi, I'm Yondika Vio Landa 👋
 
-![Alt text](/readmebox.svg "readmebox")
 <div id="badges">
   <a href="https://www.linkedin.com/in/yondika-vio-landa-a37206219">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -9,6 +8,8 @@
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
+
+<img src="https://komarev.com/ghpvc/?username=yondikavl&style=flat-square&color=blue" alt=""/>
 
 _________________
 

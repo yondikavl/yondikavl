@@ -10,8 +10,6 @@
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=yondikavl&style=flat-square&color=blue" alt=""/>
-
 _________________
 
 ### 🚀 About Me :
